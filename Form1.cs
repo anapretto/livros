@@ -130,7 +130,7 @@ namespace Livros
             else
             {
                 this.lv_livros.SelectedItems.Clear();
-                MessageBox.Show("Selecione algum filme antes de continuar.");
+                MessageBox.Show("Selecione algum livro antes de continuar.");
             }            
         }
 
